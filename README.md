@@ -173,7 +173,7 @@ scope:
 <tr>
 <td width="56%" valign="top">
 
-![Marineair Screenshot](./assets/marineair.png)
+![Marineair Screenshot](https://www.upwork.com/att/download/portfolio/persons/uid/1208323677306396672/profile/projects/files/a18b83b4-503e-4af2-93b0-a15b99aa1a82)
 
 </td>
 <td width="44%" valign="top">
@@ -285,7 +285,7 @@ mission:
 </td>
 <td width="58%" valign="top">
 
-![M3 Logistics Screenshot](./assets/m3-logistics.png)
+![M3 Logistics Screenshot](https://www.upwork.com/att/download/portfolio/persons/uid/1208323677306396672/profile/projects/files/2d3b721a-c44b-4e40-9b84-8cd9e1c24d3a)
 
 </td>
 </tr>
@@ -345,7 +345,7 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-![PinSpy Screenshot](./assets/pinspy.png)
+![PinSpy Screenshot](https://www.upwork.com/att/download/portfolio/persons/uid/1208323677306396672/profile/projects/files/c2407b52-9992-4902-9e4e-b9f18ffd4625)
 
 </td>
 <td width="50%" valign="top">
@@ -448,7 +448,7 @@ A professional networking product where members create profiles, discover people
 </td>
 <td width="54%" valign="top">
 
-![Putiton Screenshot](./assets/putiton.png)
+![Putiton Screenshot](https://www.upwork.com/att/download/portfolio/persons/uid/1208323677306396672/profile/projects/files/d46ea66a-fffb-469c-bdab-8d59863df4df)
 
 </td>
 </tr>
