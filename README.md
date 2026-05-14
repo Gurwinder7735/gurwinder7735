@@ -1,9 +1,6 @@
 <!--
   GitHub Profile README for Gurwinder Singh
   Replace placeholders marked with TODO before publishing:
-  - YOUR_LINKEDIN_URL
-  - YOUR_PORTFOLIO_URL
-  - YOUR_EMAIL
   - YOUR_TWITTER_OR_X_URL
   - YOUR_CALENDLY_URL
 -->
@@ -66,7 +63,7 @@ runtime    founder energy
 | Building | Exploring | Optimizing |
 | --- | --- | --- |
 | AI recruitment systems | OCR + Computer Vision workflows | Frontend performance |
-| Real-time assessment tools | AI construction automation | Monitoring architecture |
+| Product automation systems | AI construction automation | Monitoring architecture |
 | Internal developer tooling | Browser automation | Product delivery speed |
 | Web and mobile platforms | AI-integrated workflows | Scalable system design |
 
@@ -96,40 +93,6 @@ scope:
 </td>
 <td width="50%" valign="top">
 
-### Juice
-
-Internal technical assessment platform focused on real-time visibility, candidate integrity, and smooth performance.
-
-```txt
-scope:
-  - screen tracking
-  - webcam monitoring
-  - live candidate signals
-  - real-time dashboards
-  - performance-first frontend
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Appmotiv
-
-Software development startup for web and mobile solutions, built around practical product execution.
-
-```txt
-scope:
-  - product strategy
-  - full stack delivery
-  - web platforms
-  - mobile applications
-  - client engineering
-```
-
-</td>
-<td width="50%" valign="top">
-
 ### Salon Platform
 
 Large salon ecosystem with booking, management, operational workflows, and international product ambition.
@@ -145,7 +108,402 @@ scope:
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI Construction Vision
+
+Exploring automation systems for construction workflows using OCR, computer vision, AI extraction, and operational intelligence.
+
+```txt
+scope:
+  - document intelligence
+  - OCR workflows
+  - computer vision
+  - process automation
+  - AI-assisted operations
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Internal Automation
+
+Tools and workflows built to reduce repeated manual effort across engineering, operations, and product execution.
+
+```txt
+scope:
+  - browser extensions
+  - internal dashboards
+  - developer tooling
+  - workflow automation
+  - real-time product surfaces
+```
+
+</td>
+</tr>
 </table>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,45:8B5CF6,100:10B981" alt="Featured projects divider" width="100%" />
+
+<br />
+<br />
+
+<strong>Selected builds across logistics, intelligence dashboards, browser automation, and business networking.</strong>
+
+<br />
+<sub>Designed as product systems: interface, workflow, data model, automation, operations, and business outcome.</sub>
+
+</div>
+
+<br />
+
+<details open>
+<summary><strong>Marineair Cargo Services</strong> — Instant Shipping Quotes Tool</summary>
+
+<br />
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+![Marineair Screenshot](./assets/marineair.png)
+
+</td>
+<td width="44%" valign="top">
+
+### Enterprise SaaS Logistics Platform
+
+Instant quotation and shipment management for cargo operations.
+
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20Engineer-22d3ee?style=flat-square&labelColor=111827)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+```txt
+impact:
+  shipping quote flow moved from manual back-and-forth
+  to structured, instant, operationally visible workflows
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### Key Features
+
+- Instant shipping quotation generation
+- Booking management
+- Shipment workflow handling
+- Admin management panel
+- Responsive dashboard UI
+- Real-time shipment operations
+
+</td>
+<td width="33%" valign="top">
+
+#### Engineering Challenges
+
+- Dynamic quotation rules with multiple input paths
+- Complex form state across shipment details
+- Admin workflows that needed speed and clarity
+- API design for operational data consistency
+- Responsive UX for dense logistics screens
+
+</td>
+<td width="33%" valign="top">
+
+#### System Thinking
+
+```txt
+quote request
+  -> validation layer
+  -> pricing workflow
+  -> booking record
+  -> admin operations
+  -> shipment lifecycle
+```
+
+</td>
+</tr>
+</table>
+
+```bash
+$ deploy marineair-quotes
+building quotation engine... done
+optimizing admin workflows... done
+shipping operations dashboard... online
+```
+
+**Business impact:** reduced manual quotation friction, gave operators a cleaner booking workflow, and made shipment handling more trackable from a single management surface.
+
+**Performance and automation improvements:** reusable form architecture, optimized admin flows, structured API boundaries, and faster quote-to-booking execution.
+
+</details>
+
+---
+
+<details open>
+<summary><strong>M3 Logistics</strong> — Logistics Management Intelligence Dashboard</summary>
+
+<br />
+
+<table>
+<tr>
+<td width="42%" valign="top">
+
+### Operations Intelligence Platform
+
+Data-heavy logistics management built for tracking, analytics, reporting, and operational visibility.
+
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20Engineer-8b5cf6?style=flat-square&labelColor=111827)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-111827?style=flat-square&logo=redux&logoColor=764ABC)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248)
+
+```txt
+mission:
+  convert logistics activity into dashboards,
+  signals, reports, and decisions operators can trust
+```
+
+</td>
+<td width="58%" valign="top">
+
+![M3 Logistics Screenshot](./assets/m3-logistics.png)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Intelligence Layer
+
+- Real-time analytics dashboards
+- Shipment tracking
+- Inventory management
+- Reporting systems
+- KPI monitoring
+- Performance visualization
+- Operational insights
+
+</td>
+<td width="50%" valign="top">
+
+#### What Made It Difficult
+
+The hard part was not just drawing charts. It was shaping noisy logistics data into a responsive enterprise UI where operators can scan, compare, filter, and act without waiting on heavy renders or unclear state transitions.
+
+</td>
+</tr>
+</table>
+
+```mermaid
+flowchart LR
+    A[Shipment Events] --> B[NestJS API]
+    B --> C[MongoDB Collections]
+    C --> D[Analytics Aggregation]
+    D --> E[Redux Data Layer]
+    E --> F[Operational Dashboard]
+    F --> G[KPI Decisions]
+```
+
+**Architecture focus:** scalable analytics architecture, predictable state management, dashboard composition, and data visualization patterns that keep dense information readable.
+
+**Business impact:** improved operational visibility, supported faster logistics decisions, and created a single intelligence surface for tracking, inventory, reports, and performance monitoring.
+
+**Performance and automation improvements:** optimized dashboard rendering, structured data flow, reusable visualization modules, and reduced manual reporting effort.
+
+</details>
+
+---
+
+<details>
+<summary><strong>PinSpy</strong> — Pinterest Chrome Extension & Scraping System</summary>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![PinSpy Screenshot](./assets/pinspy.png)
+
+</td>
+<td width="50%" valign="top">
+
+```txt
+PINSPY / browser automation lab
+--------------------------------
+target      Pinterest ad exploration
+surface     Chrome extension
+engine      Puppeteer + extraction workflows
+focus       scraping, lazy loading, DOM signals
+challenge   dynamic content at browser speed
+```
+
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20Engineer-10b981?style=flat-square&labelColor=111827)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-111827?style=flat-square&logo=puppeteer&logoColor=40B5A4)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+</td>
+</tr>
+</table>
+
+#### Automation Aesthetic
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**Extract**
+
+Dynamic content, ad surfaces, interaction states, lazy-loaded data.
+
+</td>
+<td width="25%" valign="top">
+
+**Analyze**
+
+Normalize scraped signals into useful exploration flows.
+
+</td>
+<td width="25%" valign="top">
+
+**Enhance**
+
+Improve browsing with extension-driven overlays and actions.
+
+</td>
+<td width="25%" valign="top">
+
+**Optimize**
+
+Reduce DOM scanning cost and keep rendering responsive.
+
+</td>
+</tr>
+</table>
+
+```bash
+$ pinspy scan --source=pinterest --mode=ads
+attaching browser context... ok
+waiting for lazy content... ok
+extracting dynamic nodes... ok
+normalizing ad signals... ok
+extension interface ready
+```
+
+**Engineering challenges solved:** Chrome extension architecture, dynamic DOM extraction, Puppeteer automation, lazy loading optimization, interactive browsing enhancements, and performance-focused rendering.
+
+**Business impact:** enabled faster Pinterest ad exploration and reduced repetitive manual research through a browser-native automation workflow.
+
+**Performance and automation improvements:** optimized scraping loops, improved lazy-load handling, separated browser automation concerns, and made extraction workflows more repeatable.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Putiton</strong> — Business Networking Platform</summary>
+
+<br />
+
+<table>
+<tr>
+<td width="46%" valign="top">
+
+### Modern Startup Networking Surface
+
+A professional networking product where members create profiles, discover people, collaborate, and move through a business ecosystem with a clean responsive interface.
+
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20Engineer-f59e0b?style=flat-square&labelColor=111827)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+</td>
+<td width="54%" valign="top">
+
+![Putiton Screenshot](./assets/putiton.png)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### Product Core
+
+- Authentication system
+- Professional profiles
+- Networking interactions
+- Collaboration workflows
+- Member discovery
+- Modern responsive frontend
+
+</td>
+<td width="33%" valign="top">
+
+#### Architecture Notes
+
+- Scalable frontend structure
+- Profile-centric data modeling
+- Secure authentication flow
+- Responsive page composition
+- UX paths for discovery and engagement
+
+</td>
+<td width="33%" valign="top">
+
+#### Build Difficulty
+
+The platform needed to feel social without becoming noisy: identity, trust, discovery, and collaboration all had to work together inside a clean startup-grade product experience.
+
+</td>
+</tr>
+</table>
+
+```txt
+networking loop:
+  create identity
+  -> discover members
+  -> inspect professional context
+  -> start interaction
+  -> collaborate
+  -> return with stronger network value
+```
+
+**Business impact:** created a foundation for a modern professional ecosystem with user profiles, discovery, collaboration, and repeat engagement loops.
+
+**Performance and automation improvements:** optimized UX flows, responsive component structure, reusable profile modules, and cleaner auth-driven navigation.
+
+</details>
 
 ---
 
@@ -277,18 +635,19 @@ product rule:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gurwinder7735&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1" alt="Gurwinder Singh GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Gurwinder7735&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="Gurwinder Singh GitHub streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurwinder7735&theme=github_dark" alt="GitHub contribution profile details for Gurwinder Singh" />
 
 <br />
 <br />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurwinder7735&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="Top languages used by Gurwinder Singh" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurwinder7735&theme=github_dark" alt="GitHub stats summary for Gurwinder Singh" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurwinder7735&theme=github_dark&utcOffset=5.5" alt="Most productive coding time for Gurwinder Singh" />
 
 <br />
 <br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gurwinder7735&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=8B5CF6&area=true&hide_border=true" alt="GitHub activity graph for Gurwinder Singh" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurwinder7735&theme=github_dark" alt="Top languages by repository for Gurwinder Singh" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurwinder7735&theme=github_dark" alt="Top languages by commit for Gurwinder Singh" />
 
 </div>
 
@@ -330,7 +689,7 @@ $ whoami
 Gurwinder Singh
 
 $ current_focus
-AI recruitment infrastructure, real-time assessment systems,
+AI recruitment infrastructure, automation systems,
 automation tooling, scalable web/mobile products
 
 $ engineering_bias
@@ -360,18 +719,15 @@ Good reasons to talk:
 
 <div align="center">
 
-<!-- TODO: Replace YOUR_PORTFOLIO_URL with your live website or portfolio URL -->
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://gurwinder-theta.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio" />
 </a>
 
-<!-- TODO: Replace YOUR_LINKEDIN_URL with your LinkedIn profile URL -->
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/gurwinder7735/">
   <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 
-<!-- TODO: Replace YOUR_EMAIL with your email address -->
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:gurwinder7735@gmail.com">
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 
@@ -437,7 +793,6 @@ Good reasons to talk:
   3. Enable the contribution snake GitHub Action.
   4. Add a WakaTime card if you use WakaTime.
   5. Replace placeholder contact links with real URLs.
-  6. Add case-study links for ZEUS, Juice, Appmotiv, and the Salon Platform when public.
+  6. Add case-study links for ZEUS, the Salon Platform, and AI construction workflows when public.
   7. Add a short demo GIF for any production product that can be shown safely.
 -->
-
